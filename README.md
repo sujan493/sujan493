@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujan Roy</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif"><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujan493&label=Profile%20views&color=0e75b6&style=flat" alt="sujan493" /> </p>
 
